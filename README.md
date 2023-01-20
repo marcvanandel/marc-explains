@@ -2,6 +2,8 @@
 
 This repo contains the materials and content presented at the [Marc explains YouTube channel](https://www.youtube.com/@marcexplains).
 
+![Marc explains banner](docs/images/marc-explains-banner-small.png)
+
 ## Content
 
 - [Event Sourcing](EventSourcing.md)
