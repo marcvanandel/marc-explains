@@ -4,7 +4,7 @@ This repo contains the materials and content presented at the [Marc explains You
 
 ## Content
 
-- Event Sourcing
+- [Event Sourcing](EventSourcing.md)
 
 ## Formalities
 
