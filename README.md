@@ -8,6 +8,15 @@ This repo contains the materials and content presented at the [Marc explains You
 
 - [Event Sourcing](EventSourcing.md)
 
+## Tooling
+
+I'm developing these videos with these tools:
+
+- PowerPoint (see [Great Impractical Ideas in Programming with PowerPoint](https://youtu.be/_3loq22TxSc) :laughing:) 
+- [OBS Studio](https://obsproject.com/) for video recording
+- [Shotcut](https://shotcut.org/) for video editing
+- [GIMP](https://www.gimp.org/) for image editing
+
 ## Formalities
 
 This work is maintained by [Marc](https://github.com/marcvanandel/).
